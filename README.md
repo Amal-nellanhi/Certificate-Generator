@@ -107,6 +107,15 @@ You can enable either option by commenting or uncommenting the corresponding sav
 
 ---
 
+## Sample image
+
+<div align =center>
+  
+
+<img width=50% alt="image" src="https://github.com/user-attachments/assets/f7b61933-02d9-4576-9073-64b21b1cb177" />
+
+</div>  
+
 ## Notes
 
 - If a participant has a long name, the script automatically reduces the font size until the name fits within the configured maximum width.
